@@ -19,7 +19,7 @@ var Nav = (props) => {
                             <Link to="/examples" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Examples</Link>
                         </li>
                     </ul>
-                </div>
+                </div> 
                 <div className="top-bar-right">
 
                 </div>
